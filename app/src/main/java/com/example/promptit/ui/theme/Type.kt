@@ -16,47 +16,47 @@ val Typography = Typography(
         displayLarge = TextStyle(
                 fontFamily = NotoSerif,
                 fontWeight = FontWeight.Normal,
-                fontSize = 57.sp
+                fontSize = 60.sp
         ),
         displayMedium = TextStyle(
                 fontFamily = NotoSerif,
                 fontWeight = FontWeight.Normal,
-                fontSize = 45.sp
+                fontSize = 50.sp
         ),
         displaySmall = TextStyle(
                 fontFamily = NotoSerif,
                 fontWeight = FontWeight.Normal,
-                fontSize = 36.sp
+                fontSize = 46.sp
         ),
         headlineLarge = TextStyle(
                 fontFamily = NotoSerif,
                 fontWeight = FontWeight.Normal,
-                fontSize = 32.sp
+                fontSize = 44.sp
         ),
         headlineMedium = TextStyle(
                 fontFamily = NotoSerif,
                 fontWeight = FontWeight.Normal,
-                fontSize = 28.sp
+                fontSize = 42.sp
         ),
         headlineSmall = TextStyle(
                 fontFamily = NotoSerif,
                 fontWeight = FontWeight.Normal,
-                fontSize = 24.sp
+                fontSize = 42.sp
         ),
         titleLarge = TextStyle(
                 fontFamily = NotoSerif,
                 fontWeight = FontWeight.Normal,
-                fontSize = 22.sp
+                fontSize = 42.sp
         ),
         titleMedium = TextStyle(
                 fontFamily = NotoSerif,
                 fontWeight = FontWeight.Normal,
-                fontSize = 16.sp
+                fontSize = 42.sp
         ),
         titleSmall = TextStyle(
                 fontFamily = NotoSerif,
                 fontWeight = FontWeight.Normal,
-                fontSize = 14.sp
+                fontSize = 42.sp
         ),
         // Add other default text styles as needed
         // ...
