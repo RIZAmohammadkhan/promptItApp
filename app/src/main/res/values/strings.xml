@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PromptIt</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_new">New Prompt</string>
+    <string name="hint_enter_prompt">Write your prompt...</string>
+    <string name="scroll_view_description">List of prompts</string>
+</resources>

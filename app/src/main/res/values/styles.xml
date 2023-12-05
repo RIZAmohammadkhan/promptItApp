@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customizing with dark colors and Noto Serif font -->
+        <item name="colorPrimary">#000000</item> <!-- Black for the primary color -->
+        <item name="colorPrimaryDark">#202020</item> <!-- Darker shade for the status bar -->
+        <item name="colorAccent">#FFFFFF</item> <!-- White for accent -->
+        <item name="android:fontFamily">@font/notoserifmedium</item>
+    </style>
+
+    <!-- Custom style for outlined buttons -->
+    <style name="CustomOutlinedButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@android:color/white</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>
